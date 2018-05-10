@@ -8,6 +8,10 @@ We are now offering the following service for everyone -
 > Enjoy your time, reading the news.
 
 
+![alt text](https://github.com/NaritaBagchi/news-daily/blob/master/public/site_ss.PNG)
+
+#
+
 To build, run
 	npm install
 
@@ -16,4 +20,4 @@ To start the application, run
 
 App URL
 	http://localhost:3000/#/home
-# news-daily
+
